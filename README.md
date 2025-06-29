@@ -1,30 +1,50 @@
-## Hi there 👋
-
 <h1 align="center">Hey, I'm Nahid 👋</h1>
 
 <p align="center">
-  <b>Programmer | AI Enthusiast | Full-Stack Developer</b>
+  👨‍💻 Programmer | ⚙️ DSA Enthusiast | 🤖 AI Explorer | 🧱 Full Stack Developer  
 </p>
 
 ---
 
-### ⚡ Tech Stack
+### 🛠️ Tech Stack:
+- **Languages:** Python, C++, HTML, CSS, JavaScript  
+- **Web:** Django, Flask, MySQL  
+- **AI/ML:** NumPy, Pandas, scikit-learn, KMeans  
+- **Tools:** Git, GitHub, VS Code, Ubuntu (Zsh)  
+
+---
+
+### 🚧 Projects in Progress:
+- `🧠 Intelligent Algorithms Visualizer`  
+  _AI-enhanced platform to visualize and recommend optimal algorithms_
+
+- `🛡️ Intelligent Cyber Attack Neutralization System`  
+  _ML-based threat model for CPS using real-world datasets_
+
+- `📚 Read & Relax Bookstore`  
+  _Database system with image handling and SQL operations_
+
+---
+
+### 🌱 Currently Learning:
+- Deep DSA with C++
+- Machine Learning for cybersecurity
+- Advanced Full-Stack Architecture
+
+---
+
+### 📊 GitHub Stats:
 <p align="center">
-  <code>Python</code> • <code>C++</code> • <code>Django</code> • <code>Flask</code> • <code>MySQL</code> • <code>Git</code>
+  <img src="https://github-readme-stats.vercel.app/api?username=nahiiiiid&show_icons=true&hide_title=true&count_private=true&theme=gruvbox" height="150">
 </p>
-
----
-
-### 🔭 Current Projects
-- Intelligent Algorithms Visualizer  
-- Cyber Attack Neutralizer  
-- Read & Relax Bookstore
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nahiiiiid&show_icons=true&theme=calm" height="130" />
+  <i>"Sleep, Eat, Code, Heal — Repeat."</i><br>
+  <i>Living quietly, building loudly.</i>
 </p>
+
 
 
 
