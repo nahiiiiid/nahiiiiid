@@ -12,18 +12,33 @@
 
 ## Toolbox
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" style="height:28px" alt="Java" /> &nbsp;
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" style="height:28px" alt="Go" /> &nbsp;
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" style="height:28px" alt="Angular" /> &nbsp;
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" style="height:28px" alt="React" /> &nbsp;
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" style="height:28px" alt="PostgreSQL" /> &nbsp;
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" style="height:28px" alt="MongoDB" /> &nbsp;
-<img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" style="height:28px" alt="GraphQL" /> &nbsp;
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" style="height:28px" alt="Google Cloud" /> &nbsp;
-<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" style="height:28px" alt="AWS" /> &nbsp;
-<img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" style="height:28px" alt="Kubernetes" /> &nbsp;
-<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" style="height:28px" alt="Docker" /> &nbsp;
-<img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" style="height:28px" alt="Shell Script" />
+<table>
+  <tr>
+    <td><strong>Languages</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" style="height:28px" alt="Java" /> &nbsp;
+      <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" style="height:28px" alt="Go" /> &nbsp;
+      <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" style="height:28px" alt="Shell Script" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Frontend & UI</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" style="height:28px" alt="Angular" /> &nbsp;
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" style="height:28px" alt="React" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Databases & Cloud</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" style="height:28px" alt="PostgreSQL" /> &nbsp;
+      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" style="height:28px" alt="MongoDB" /> &nbsp;
+      <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" style="height:28px" alt="Google Cloud" /> &nbsp;
+      <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" style="height:28px" alt="AWS" />
+    </td>
+  </tr>
+</table>
+
 
 
 
