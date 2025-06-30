@@ -6,10 +6,16 @@
 
 ---
 
+<p align="center">
+   <img src="https://github.com/vrajdesai78/vrajdesai78/blob/output/snake.svg" alt="Snake Animation">
+</p>
+
+---
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/nahiiiiid/nahiiiiid/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/nahiiiiid/nahiiiiid/profile-snake-contrib/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/nahiiiiid/nahiiiiid/profile-snake-contrib/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/nahiiiiid/nahiiiiid/snake-contribution-game/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/nahiiiiid/nahiiiiid/snake-contribution-game/snake-light.svg" />
+  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/nahiiiiid/nahiiiiid/snake-contribution-game/snake-light.svg" />
 </picture>
 
 
