@@ -11,23 +11,43 @@
 ---
 
 <!-- GitHub-friendly navbar style -->
-<div align="center">
-  <p>
-    <strong>📨 &nbsp;Socials:</strong> &nbsp;
-    <a href="https://wa.me/your-number">WhatsApp</a> •
-    <a href="mailto:you@example.com">Email</a> •
-    <a href="https://linkedin.com/in/your-id">LinkedIn</a> •
-    <a href="https://facebook.com/your-id">Facebook</a> •
-    <a href="https://your-portfolio.com">Portfolio</a>
-  </p>
-  
-  <p>
-    <strong>💻 &nbsp;Coding Profiles:</strong> &nbsp;
-    <a href="https://codeforces.com/profile/your-id">Codeforces</a> •
-    <a href="https://kaggle.com/your-id">Kaggle</a> •
-    <a href="https://leetcode.com/your-id">LeetCode</a>
-  </p>
-</div>
+<!-- Long navbar imitation with icons only -->
+<table width="100%">
+  <tr>
+    <!-- Left Side -->
+    <td align="left">
+      <a href="https://wa.me/your-number">
+        <img src="https://img.icons8.com/ios-filled/30/25D366/whatsapp.png" alt="WhatsApp"/>
+      </a>
+      <a href="mailto:your@email.com">
+        <img src="https://img.icons8.com/ios-glyphs/30/ffffff/new-post.png" alt="Email"/>
+      </a>
+      <a href="https://linkedin.com/in/your-id">
+        <img src="https://img.icons8.com/ios-filled/30/0A66C2/linkedin.png" alt="LinkedIn"/>
+      </a>
+      <a href="https://facebook.com/your-id">
+        <img src="https://img.icons8.com/ios-filled/30/1877F2/facebook-new.png" alt="Facebook"/>
+      </a>
+      <a href="https://your-portfolio.com">
+        <img src="https://img.icons8.com/ios-filled/30/FFFFFF/domain.png" alt="Portfolio"/>
+      </a>
+    </td>
+
+    <!-- Right Side -->
+    <td align="right">
+      <a href="https://codeforces.com/profile/your-id">
+        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/codeforces.svg" alt="Codeforces" width="30" height="30"/>
+      </a>
+      <a href="https://kaggle.com/your-id">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/kaggle.svg" alt="Kaggle" width="30" height="30"/>
+      </a>
+      <a href="https://leetcode.com/your-id">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" alt="LeetCode" width="30" height="30"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 
 ---
