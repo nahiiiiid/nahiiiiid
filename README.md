@@ -10,11 +10,74 @@
 
 ---
 
+<!-- 🌐 All Social Links with Icons -->
+<div align="center" style="text-align: center;">
+
+  <!-- GitHub -->
+  <a href="https://github.com/your-username" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="52" height="40" alt="GitHub logo" />
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
+  </a>
+
+  <!-- Twitter -->
+  <a href="https://twitter.com/your-twitter" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="Twitter logo" />
+  </a>
+
+  <!-- Medium -->
+  <a href="https://medium.com/@your-medium" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" width="52" height="40" alt="Medium logo" />
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://instagram.com/your-instagram" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram logo" />
+  </a>
+
+  <!-- YouTube -->
+  <a href="https://youtube.com/@your-youtube" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="YouTube logo" />
+  </a>
+
+  <!-- Facebook -->
+  <a href="https://facebook.com/your-facebook" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="Facebook logo" />
+  </a>
+
+  <!-- Kaggle -->
+  <a href="https://kaggle.com/your-kaggle" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/kaggle.svg" width="52" height="40" alt="Kaggle logo" />
+  </a>
+
+  <!-- Codeforces -->
+  <a href="https://codeforces.com/profile/your-codeforces" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codeforces.svg" width="52" height="40" alt="Codeforces logo" />
+  </a>
+
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/your-leetcode" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" width="52" height="40" alt="LeetCode logo" />
+  </a>
+
+  <!-- Portfolio -->
+  <a href="https://your-portfolio.com" target="_blank">
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-portfolio-web-and-mobile-application-development-color-tal-revivo.png" width="52" height="40" alt="Portfolio logo" />
+  </a>
+
+</div>
+
+
+---
+
 <!-- 🌐 Contact & Coding Profiles (Simple URLs) -->
 
 <div align="center">
 
-| [![Mail](https://img.shields.io/badge/-Mail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:your-email@example.com "Connect via Email")
+[![Mail](https://img.shields.io/badge/-Mail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:your-email@example.com "Connect via Email")
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin "Connect on LinkedIn")
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-4AC959?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/your-number "Chat on WhatsApp")
 [![Instagram](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/your-instagram "Instagram Profile")
@@ -27,7 +90,7 @@
 
 [![Codeforces](https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/your-codeforces)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://kaggle.com/your-kaggle)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/your-leetcode) |
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/your-leetcode)
 
 </div>
 
