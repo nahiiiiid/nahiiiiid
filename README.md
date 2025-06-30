@@ -9,6 +9,27 @@
 </p>
 
 ---
+
+<!-- GitHub-friendly navbar style -->
+<div align="center">
+  <p>
+    <strong>📨 &nbsp;Socials:</strong> &nbsp;
+    <a href="https://wa.me/your-number">WhatsApp</a> •
+    <a href="mailto:you@example.com">Email</a> •
+    <a href="https://linkedin.com/in/your-id">LinkedIn</a> •
+    <a href="https://facebook.com/your-id">Facebook</a> •
+    <a href="https://your-portfolio.com">Portfolio</a>
+  </p>
+  
+  <p>
+    <strong>💻 &nbsp;Coding Profiles:</strong> &nbsp;
+    <a href="https://codeforces.com/profile/your-id">Codeforces</a> •
+    <a href="https://kaggle.com/your-id">Kaggle</a> •
+    <a href="https://leetcode.com/your-id">LeetCode</a>
+  </p>
+</div>
+
+
 ---
 
 
