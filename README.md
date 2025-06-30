@@ -39,7 +39,7 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| [Intelligent Algorithms Visualizer](https://github.com/nahiiiiid/Intelligent-Algorithm-Visualizer) | Visualizes algorithms with animations, AI-driven suggestions | <img src="https://skillicons.dev/icons?i=html,css,js,python" height="20"/> |
+| [Intelligent Algorithms Visualizer](https://github.com/nahiiiiid/Intelligent-Algorithm-Visualizer) | Visualizes algorithms with animations, AI-driven suggestions. Visualizes algorithms with animations, AI-driven suggestions | <img src="https://skillicons.dev/icons?i=html,css,js,python" height="20"/> |
 | [Networking WhatsApp Clone](https://github.com/nahiiiiid/networking-chat-app) | Real-time chat app for networking lab | <img src="https://skillicons.dev/icons?i=python" height="20"/> <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socket.io&logoColor=white" height="20"/> |
 | [Trust Model Detector](https://github.com/nahiiiiid/trust-model-intel) | Cybersecurity ML project for threat trust detection | <img src="https://skillicons.dev/icons?i=python" height="20"/> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/ML-6B57FF?style=flat&logo=ml&logoColor=white" height="20"/> |
 
