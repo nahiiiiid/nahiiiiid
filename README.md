@@ -52,7 +52,7 @@
 
 ---
 
-# 📈 GitHub Activity Graph:
+## 📈 GitHub Activity Graph
 ![Nahid's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nahiiiiid&bg_color=0d1117&color=4cd331&line=45b83d&point=5c4d4d&area=true&hide_border=true)
 
 ---
