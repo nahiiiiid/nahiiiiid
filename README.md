@@ -32,8 +32,6 @@
         <img src="https://img.icons8.com/ios-filled/30/FFFFFF/domain.png" alt="Portfolio"/>
       </a>
     </td>
-
-    <!-- Right Side -->
     <td align="right">
       <a href="https://codeforces.com/profile/your-id">
         <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/codeforces.svg" alt="Codeforces" width="30" height="30"/>
