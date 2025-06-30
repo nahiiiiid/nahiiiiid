@@ -9,23 +9,19 @@
 </p>
 
 ---
+---
 
 
 ##States
 
 <!-- 🧠 GitHub Stats and Streaks -->
-| [![Nahid Hasan GitHub Stats](https://github-readme-stats.vercel.app/api?username=nahiiiiid&show_icons=true&theme=ayu-mirage&count_private=true)](https://github.com/nahiiiiid) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nahiiiiid&theme=ayu-mirage)](https://github.com/nahiiiiid) |
+| [![Nahid Hasan GitHub Stats](https://github-readme-stats.vercel.app/api?username=nahiiiiid&show_icons=true&theme=ayu-mirage&count_private=true)](https://github.com/nahiiiiid) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nahiiiiid&theme=ayu-mirage)](https://github.com/nahiiiiid) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahiiiiid&layout=compact&theme=ayu-mirage)](https://github.com/nahiiiiid) |
 | :---: | :---: |
 
-<!-- 🧠 Most Used Languages -->
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahiiiiid&layout=compact&theme=ayu-mirage)](https://github.com/nahiiiiid) |
-| :---: | :---: |
 
 <!-- 🏆 GitHub Trophy Cabinet -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=nahiiiiid&theme=darkhub&margin-w=15&no-frame=true)](https://github.com/nahiiiiid)
 
-<!-- 🐍 GitHub Contribution Snake -->
-![GitHub Snake dark](https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg)
 
 ---
 
