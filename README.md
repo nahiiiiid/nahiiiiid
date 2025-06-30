@@ -80,6 +80,7 @@
       <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" style="height:28px;" />
       <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" style="height:28px;" />
       <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" style="height:28px;" />
+      <img src="https://img.shields.io/badge/matplotlib-FF6F00?style=for-the-badge&logo=matplotlib&logoColor=white" style="height:28px;" />
     </td>
   </tr>
   <tr>
