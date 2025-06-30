@@ -12,39 +12,42 @@
 
 <!-- GitHub-friendly navbar style -->
 <!-- Long navbar imitation with icons only -->
+<!-- 💻 Profile Navbar Layout -->
 <table width="100%">
   <tr>
-    <!-- Left Side -->
+    <!-- 🔗 Left Side: Social Links -->
     <td align="left">
-      <a href="https://wa.me/your-number">
-        <img src="https://img.icons8.com/ios-filled/30/25D366/whatsapp.png" alt="WhatsApp"/>
+      <a href="https://wa.me/your-number" target="_blank" style="margin-right: 10px;">
+        <img src="https://img.icons8.com/color/32/whatsapp--v1.png" alt="WhatsApp" />
       </a>
-      <a href="mailto:your@email.com">
-        <img src="https://img.icons8.com/ios-glyphs/30/ffffff/new-post.png" alt="Email"/>
+      <a href="mailto:your@email.com" target="_blank" style="margin-right: 10px;">
+        <img src="https://img.icons8.com/fluency/32/new-post.png" alt="Email" />
       </a>
-      <a href="https://linkedin.com/in/your-id">
-        <img src="https://img.icons8.com/ios-filled/30/0A66C2/linkedin.png" alt="LinkedIn"/>
+      <a href="https://linkedin.com/in/your-id" target="_blank" style="margin-right: 10px;">
+        <img src="https://img.icons8.com/color/32/linkedin.png" alt="LinkedIn" />
       </a>
-      <a href="https://facebook.com/your-id">
-        <img src="https://img.icons8.com/ios-filled/30/1877F2/facebook-new.png" alt="Facebook"/>
+      <a href="https://facebook.com/your-id" target="_blank" style="margin-right: 10px;">
+        <img src="https://img.icons8.com/color/32/facebook.png" alt="Facebook" />
       </a>
-      <a href="https://your-portfolio.com">
-        <img src="https://img.icons8.com/ios-filled/30/FFFFFF/domain.png" alt="Portfolio"/>
+      <a href="https://your-portfolio.com" target="_blank" style="margin-right: 10px;">
+        <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/32/external-portfolio-web-and-mobile-application-development-color-tal-revivo.png" alt="Portfolio" />
       </a>
     </td>
+    <!-- 👨‍💻 Right Side: Coding Platforms -->
     <td align="right">
-      <a href="https://codeforces.com/profile/your-id">
-        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/codeforces.svg" alt="Codeforces" width="30" height="30"/>
+      <a href="https://codeforces.com/profile/your-id" target="_blank" style="margin-left: 10px;">
+        <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/32/external-codeforces-programming-competitions-and-contests-programming-platform-color-tal-revivo.png" alt="Codeforces" />
       </a>
-      <a href="https://kaggle.com/your-id">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/kaggle.svg" alt="Kaggle" width="30" height="30"/>
+      <a href="https://kaggle.com/your-id" target="_blank" style="margin-left: 10px;">
+        <img src="https://img.icons8.com/color/32/kaggle.png" alt="Kaggle" />
       </a>
-      <a href="https://leetcode.com/your-id">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" alt="LeetCode" width="30" height="30"/>
+      <a href="https://leetcode.com/your-id" target="_blank" style="margin-left: 10px;">
+        <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/32/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="LeetCode" />
       </a>
     </td>
   </tr>
 </table>
+
 
 
 
