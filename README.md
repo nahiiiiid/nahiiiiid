@@ -10,37 +10,6 @@
 
 ---
 
-## Toolbox
-
-<table>
-  <tr>
-    <td><strong>Languages</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" style="height:28px" alt="Java" /> &nbsp;
-      <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" style="height:28px" alt="Go" /> &nbsp;
-      <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" style="height:28px" alt="Shell Script" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Frontend & UI</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" style="height:28px" alt="Angular" /> &nbsp;
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" style="height:28px" alt="React" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Databases & Cloud</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" style="height:28px" alt="PostgreSQL" /> &nbsp;
-      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" style="height:28px" alt="MongoDB" /> &nbsp;
-      <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" style="height:28px" alt="Google Cloud" /> &nbsp;
-      <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" style="height:28px" alt="AWS" />
-    </td>
-  </tr>
-</table>
-
-
----
 
 ##States
 
@@ -50,7 +19,6 @@
 
 <!-- 🧠 Most Used Languages -->
 | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahiiiiid&layout=compact&theme=ayu-mirage)](https://github.com/nahiiiiid) |
-| :---: | :---: |
 
 <!-- 🏆 GitHub Trophy Cabinet -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=nahiiiiid&theme=darkhub&margin-w=15&no-frame=true)](https://github.com/nahiiiiid)
@@ -70,18 +38,10 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| [Intelligent Algorithms Visualizer](https://github.com/nahiiiiid/intelligent-algorithms-visualizer) | Visualizes algorithms with animations, AI-driven suggestions | HTML, CSS, JS, Python |
-| [Networking WhatsApp Clone](https://github.com/nahiiiiid/networking-chat-app) | Real-time chat app for networking lab | Python, Socket.IO |
-| [Trust Model Detector](https://github.com/nahiiiiid/trust-model-intel) | Cybersecurity ML project for threat trust detection | Python, ML, Sklearn |
+| [Intelligent Algorithms Visualizer](https://github.com/nahiiiiid/Intelligent-Algorithm-Visualizer) | Visualizes algorithms with animations, AI-driven suggestions | <img src="https://skillicons.dev/icons?i=html,css,js,python" height="20"/> |
 
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| [Intelligent Algorithms Visualizer](https://github.com/nahiiiiid/intelligent-algorithms-visualizer) | Visualizes algorithms with animations, AI-driven suggestions | <img src="https://skillicons.dev/icons?i=html,css,js,python" height="20"/> |
 | [Networking WhatsApp Clone](https://github.com/nahiiiiid/networking-chat-app) | Real-time chat app for networking lab | <img src="https://skillicons.dev/icons?i=python" height="20"/> <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socket.io&logoColor=white" height="20"/> |
+
 | [Trust Model Detector](https://github.com/nahiiiiid/trust-model-intel) | Cybersecurity ML project for threat trust detection | <img src="https://skillicons.dev/icons?i=python" height="20"/> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/ML-6B57FF?style=flat&logo=ml&logoColor=white" height="20"/> |
 
 
