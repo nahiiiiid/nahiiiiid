@@ -44,17 +44,13 @@
 
 ##States
 
-| ![Nahid Hasan GitHub Stats](https://github-readme-stats.vercel.app/api?username=nahiiiiid&show_icons=true&theme=ayu-mirage&count_private=true) | ![Nahid Hasan GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nahiiiiid&theme=ayu-mirage) |
-| :---: | :---: |
-
----
-
 <!-- 🧠 GitHub Stats and Streaks -->
 | [![Nahid Hasan GitHub Stats](https://github-readme-stats.vercel.app/api?username=nahiiiiid&show_icons=true&theme=ayu-mirage&count_private=true)](https://github.com/nahiiiiid) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nahiiiiid&theme=ayu-mirage)](https://github.com/nahiiiiid) |
 | :---: | :---: |
 
 <!-- 🧠 Most Used Languages -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahiiiiid&layout=compact&theme=ayu-mirage)](https://github.com/nahiiiiid)
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahiiiiid&layout=compact&theme=ayu-mirage)](https://github.com/nahiiiiid) |
+| :---: | :---: |
 
 <!-- 🏆 GitHub Trophy Cabinet -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=nahiiiiid&theme=darkhub&margin-w=15&no-frame=true)](https://github.com/nahiiiiid)
@@ -77,6 +73,17 @@
 | [Intelligent Algorithms Visualizer](https://github.com/nahiiiiid/intelligent-algorithms-visualizer) | Visualizes algorithms with animations, AI-driven suggestions | HTML, CSS, JS, Python |
 | [Networking WhatsApp Clone](https://github.com/nahiiiiid/networking-chat-app) | Real-time chat app for networking lab | Python, Socket.IO |
 | [Trust Model Detector](https://github.com/nahiiiiid/trust-model-intel) | Cybersecurity ML project for threat trust detection | Python, ML, Sklearn |
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| [Intelligent Algorithms Visualizer](https://github.com/nahiiiiid/intelligent-algorithms-visualizer) | Visualizes algorithms with animations, AI-driven suggestions | <img src="https://skillicons.dev/icons?i=html,css,js,python" height="20"/> |
+| [Networking WhatsApp Clone](https://github.com/nahiiiiid/networking-chat-app) | Real-time chat app for networking lab | <img src="https://skillicons.dev/icons?i=python" height="20"/> <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socket.io&logoColor=white" height="20"/> |
+| [Trust Model Detector](https://github.com/nahiiiiid/trust-model-intel) | Cybersecurity ML project for threat trust detection | <img src="https://skillicons.dev/icons?i=python" height="20"/> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/ML-6B57FF?style=flat&logo=ml&logoColor=white" height="20"/> |
+
 
 ---
 
@@ -141,60 +148,10 @@
 [<img width="100%" height="1" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/placeholder.svg">](#)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ---
 
-### 🛠️ Tech Stack:
-- **Languages:** Python, C++, HTML, CSS, JavaScript  
-- **Web:** Django, Flask, MySQL  
-- **AI/ML:** NumPy, Pandas, scikit-learn, KMeans  
-- **Tools:** Git, GitHub, VS Code, Ubuntu (Zsh)  
 
----
 
-### 🚧 Projects in Progress:
-- `🧠 Intelligent Algorithms Visualizer`  
-  _AI-enhanced platform to visualize and recommend optimal algorithms_
-
-- `🛡️ Intelligent Cyber Attack Neutralization System`  
-  _ML-based threat model for CPS using real-world datasets_
-
-- `📚 Read & Relax Bookstore`  
-  _Database system with image handling and SQL operations_
-
----
-
-### 🌱 Currently Learning:
-- Deep DSA with C++
-- Machine Learning for cybersecurity
-- Advanced Full-Stack Architecture
-
----
-
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nahiiiiid&show_icons=true&hide_title=true&count_private=true&theme=gruvbox" height="150">
-</p>
-
----
 
 <p align="center">
   <i>"Sleep, Eat, Code, Heal — Repeat."</i><br>
