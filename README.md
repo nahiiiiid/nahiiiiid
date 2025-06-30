@@ -10,43 +10,31 @@
 
 ---
 
-<!-- GitHub-friendly navbar style -->
-<!-- Long navbar imitation with icons only -->
-<!-- 💻 Profile Navbar Layout -->
-<table width="100%">
-  <tr>
-    <!-- 🔗 Left Side: Social Links -->
-    <td align="left">
-      <a href="https://wa.me/your-number" target="_blank" style="margin-right: 10px;">
-        <img src="https://img.icons8.com/color/32/whatsapp--v1.png" alt="WhatsApp" />
-      </a>
-      <a href="mailto:your@email.com" target="_blank" style="margin-right: 10px;">
-        <img src="https://img.icons8.com/fluency/32/new-post.png" alt="Email" />
-      </a>
-      <a href="https://linkedin.com/in/your-id" target="_blank" style="margin-right: 10px;">
-        <img src="https://img.icons8.com/color/32/linkedin.png" alt="LinkedIn" />
-      </a>
-      <a href="https://facebook.com/your-id" target="_blank" style="margin-right: 10px;">
-        <img src="https://img.icons8.com/color/32/facebook.png" alt="Facebook" />
-      </a>
-      <a href="https://your-portfolio.com" target="_blank" style="margin-right: 10px;">
-        <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/32/external-portfolio-web-and-mobile-application-development-color-tal-revivo.png" alt="Portfolio" />
-      </a>
-    </td>
-    <!-- 👨‍💻 Right Side: Coding Platforms -->
-    <td align="right">
-      <a href="https://codeforces.com/profile/your-id" target="_blank" style="margin-left: 10px;">
-        <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/32/external-codeforces-programming-competitions-and-contests-programming-platform-color-tal-revivo.png" alt="Codeforces" />
-      </a>
-      <a href="https://kaggle.com/your-id" target="_blank" style="margin-left: 10px;">
-        <img src="https://img.icons8.com/color/32/kaggle.png" alt="Kaggle" />
-      </a>
-      <a href="https://leetcode.com/your-id" target="_blank" style="margin-left: 10px;">
-        <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/32/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="LeetCode" />
-      </a>
-    </td>
-  </tr>
-</table>
+<!-- 🌐 Contact & Coding Profiles (Simple URLs) -->
+
+<div align="center">
+
+[![Mail](https://img.shields.io/badge/-Mail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:your-email@example.com "Connect via Email")
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin "Connect on LinkedIn")
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-4AC959?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/your-number "Chat on WhatsApp")
+[![Instagram](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/your-instagram "Instagram Profile")
+[![Telegram](https://img.shields.io/badge/-Telegram-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/your-telegram "Telegram Profile")
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=Discord&logoColor=white)](https://discord.com/your-discord "Discord Profile")
+[![Spotify](https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=Spotify&logoColor=white)](https://spotify.com/your-spotify "Spotify Profile")
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=YouTube&logoColor=white)](https://youtube.com/your-channel "YouTube Channel")
+
+<br />
+
+[![Codeforces](https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/your-codeforces)
+[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://kaggle.com/your-kaggle)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/your-leetcode)
+
+<br />
+
+![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
+
+</div>
+
 
 
 
