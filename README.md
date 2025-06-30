@@ -30,19 +30,19 @@
 
 <!-- Contact -->
 <a href="mailto:your-email@example.com" title="Mail">
-  <img src="https://img.shields.io/badge/-Mail-c14438?style=flat&logo=Gmail&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/-Mail-c14438?style=flat&logo=Gmail&logoColor=white" height="25">
 </a>
 <a href="https://linkedin.com/in/your-linkedin" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white" height="25">
 </a>
 <a href="https://wa.me/your-number" title="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-4AC959?style=flat&logo=whatsapp&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/-WhatsApp-4AC959?style=flat&logo=whatsapp&logoColor=white" height="25">
 </a>
 <a href="https://t.me/your-telegram" title="Telegram">
-  <img src="https://img.shields.io/badge/-Telegram-0088CC?style=flat&logo=Telegram&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/-Telegram-0088CC?style=flat&logo=Telegram&logoColor=white" height="25">
 </a>
 <a href="https://discord.com/your-discord" title="Discord">
-  <img src="https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=Discord&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=Discord&logoColor=white" height="25">
 </a>
 
 <br><br>
@@ -71,9 +71,6 @@
 | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahiiiiid&layout=compact&theme=ayu-mirage)](https://github.com/nahiiiiid)
 | :---: |
 
-| ![GitHub Contribution Graph](https://github.com/nahiiiiid/nahiiiiid/raw/output/github-contribution-grid-snake.svg) |
-| :---: |
-
 ---
 
 <!-- 🏆 GitHub Trophy Cabinet -->
@@ -83,7 +80,7 @@
 
 ## 🛠 Technologies & Tools
 
-<table style="border-collapse: separate; border-spacing: 0 10px;">
+<table width="100%" style="border-collapse: separate; border-spacing: 0 10px;">
   <tr style="border-bottom: 1px solid #ccc;">
     <td><strong>Frontend</strong></td>
     <td>
