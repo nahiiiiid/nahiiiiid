@@ -2,74 +2,11 @@
 
 ---
 
-<h1 align="center">Hey, I'm Nahid 👋</h1>
+<h1 align="center">Hey, I'm Nahid Hasan Saikot👋</h1>
 
-<p align="center">
+<h3 align="center">
   👨‍💻 Programmer | ⚙️ DSA Enthusiast | 🤖 AI Explorer | 🧱 Full Stack Developer  
-</p>
-
----
-
-<!-- 🌐 All Social Links with Icons -->
-<div align="center" style="text-align: center;">
-
-  <!-- GitHub -->
-  <a href="https://github.com/your-username" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="52" height="40" alt="GitHub logo" />
-  </a>
-
-  <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
-  </a>
-
-  <!-- Twitter -->
-  <a href="https://twitter.com/your-twitter" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="Twitter logo" />
-  </a>
-
-  <!-- Medium -->
-  <a href="https://medium.com/@your-medium" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" width="52" height="40" alt="Medium logo" />
-  </a>
-
-  <!-- Instagram -->
-  <a href="https://instagram.com/your-instagram" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram logo" />
-  </a>
-
-  <!-- YouTube -->
-  <a href="https://youtube.com/@your-youtube" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="YouTube logo" />
-  </a>
-
-  <!-- Facebook -->
-  <a href="https://facebook.com/your-facebook" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="Facebook logo" />
-  </a>
-
-  <!-- Kaggle -->
-  <a href="https://kaggle.com/your-kaggle" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/kaggle.svg" width="52" height="40" alt="Kaggle logo" />
-  </a>
-
-  <!-- Codeforces -->
-  <a href="https://codeforces.com/profile/your-codeforces" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codeforces.svg" width="52" height="40" alt="Codeforces logo" />
-  </a>
-
-  <!-- LeetCode -->
-  <a href="https://leetcode.com/your-leetcode" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" width="52" height="40" alt="LeetCode logo" />
-  </a>
-
-  <!-- Portfolio -->
-  <a href="https://your-portfolio.com" target="_blank">
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-portfolio-web-and-mobile-application-development-color-tal-revivo.png" width="52" height="40" alt="Portfolio logo" />
-  </a>
-
-</div>
-
+</h3>
 
 ---
 
@@ -95,42 +32,20 @@
 </div>
 
 
-
-
-
 ---
 
-
-##States
-
 <!-- 🧠 GitHub Stats and Streaks -->
-| [![Nahid Hasan GitHub Stats](https://github-readme-stats.vercel.app/api?username=nahiiiiid&show_icons=true&theme=ayu-mirage&count_private=true)](https://github.com/nahiiiiid) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nahiiiiid&theme=ayu-mirage)](https://github.com/nahiiiiid) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahiiiiid&layout=compact&theme=ayu-mirage)](https://github.com/nahiiiiid) |
+| [![Nahid Hasan GitHub Stats](https://github-readme-stats.vercel.app/api?username=nahiiiiid&show_icons=true&theme=ayu-mirage&count_private=true)](https://github.com/nahiiiiid) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nahiiiiid&theme=ayu-mirage)](https://github.com/nahiiiiid) | 
 | :---: | :---: |
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahiiiiid&layout=compact&theme=ayu-mirage)](https://github.com/nahiiiiid)
+
+---
 
 <!-- 🏆 GitHub Trophy Cabinet -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=nahiiiiid&theme=darkhub&margin-w=15&no-frame=true)](https://github.com/nahiiiiid)
 
-
 ---
-
-![Followers](https://img.shields.io/github/followers/nahiiiiid?label=Follow&style=social)
-![Stars](https://img.shields.io/github/stars/nahiiiiid?style=social)
-![Views](https://komarev.com/ghpvc/?username=nahiiiiid&label=Profile%20views&color=blue&style=flat)
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| [Intelligent Algorithms Visualizer](https://github.com/nahiiiiid/Intelligent-Algorithm-Visualizer) | Visualizes algorithms with animations, AI-driven suggestions. Visualizes algorithms with animations, AI-driven suggestions | <img src="https://skillicons.dev/icons?i=html,css,js,python" height="20"/> |
-| [Networking WhatsApp Clone](https://github.com/nahiiiiid/networking-chat-app) | Real-time chat app for networking lab | <img src="https://skillicons.dev/icons?i=python" height="20"/> <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socket.io&logoColor=white" height="20"/> |
-| [Trust Model Detector](https://github.com/nahiiiiid/trust-model-intel) | Cybersecurity ML project for threat trust detection | <img src="https://skillicons.dev/icons?i=python" height="20"/> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/ML-6B57FF?style=flat&logo=ml&logoColor=white" height="20"/> |
-
-
----
-
 
 ## 🛠 Technologies & Tools
 
@@ -191,11 +106,17 @@
 
 [<img width="100%" height="1" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/placeholder.svg">](#)
 
-
 ---
 
+## 🚀 Featured Projects
 
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| [Intelligent Algorithms Visualizer](https://github.com/nahiiiiid/Intelligent-Algorithm-Visualizer) | Visualizes algorithms with animations, AI-driven suggestions. Visualizes algorithms with animations, AI-driven suggestions | <img src="https://skillicons.dev/icons?i=html,css,js,python" height="20"/> |
+| [Networking WhatsApp Clone](https://github.com/nahiiiiid/networking-chat-app) | Real-time chat app for networking lab | <img src="https://skillicons.dev/icons?i=python" height="20"/> <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socket.io&logoColor=white" height="20"/> |
+| [Trust Model Detector](https://github.com/nahiiiiid/trust-model-intel) | Cybersecurity ML project for threat trust detection | <img src="https://skillicons.dev/icons?i=python" height="20"/> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/ML-6B57FF?style=flat&logo=ml&logoColor=white" height="20"/> |
 
+---
 
 <p align="center">
   <i>"Sleep, Eat, Code, Heal — Repeat."</i><br>
