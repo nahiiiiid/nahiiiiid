@@ -73,12 +73,6 @@
     </td>
   </tr>
   <tr>
-    <td><strong>🧠 Problem Solving</strong></td>
-    <td>
-      <span style="font-size: 14px, border: 2px;">Data Structures & Algorithms, Critical Thinking</span>
-    </td>
-  </tr>
-  <tr>
     <td><strong>🤖 Machine Learning</strong></td>
     <td>
       <img src="https://skillicons.dev/icons?i=python" style="height:28px;" />
@@ -91,14 +85,8 @@
   <tr>
     <td><strong>🌐 Web Programming</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=html,css,js,flask,django" style="height:28px;" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,flask,django,mysql,postgres" style="height:28px;" />
       <img src="https://img.shields.io/badge/API%20Development-FF5733?style=for-the-badge&logo=fastapi&logoColor=white" style="height:28px;" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>🗄️ Databases</strong></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=mysql,postgres" style="height:28px;" />
     </td>
   </tr>
   <tr>
