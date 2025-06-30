@@ -19,6 +19,7 @@
 
 <!-- 🧠 Most Used Languages -->
 | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahiiiiid&layout=compact&theme=ayu-mirage)](https://github.com/nahiiiiid) |
+| :---: | :---: |
 
 <!-- 🏆 GitHub Trophy Cabinet -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=nahiiiiid&theme=darkhub&margin-w=15&no-frame=true)](https://github.com/nahiiiiid)
