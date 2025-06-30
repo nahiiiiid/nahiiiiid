@@ -125,9 +125,9 @@
 
 | Category | Tools |
 |----------|-------|
-| **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,materialui,sass,tailwind,react,nextjs,vite,astro,redux" height="25"/> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,jest" height="25"/> |
-| **Programming Languages** | <img src="https://skillicons.dev/icons?i=js,ts,python,md" height="25"/> |
+| **Frontend ndbsdnfjdbfjdnfdhbh** | <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,materialui,sass,tailwind,react,nextjs,vite,astro,redux,postgres,mysql,mongodb,supabase" height="25"/> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,jest,postgres,mysql,mongodb,supabase" height="25"/> |
+| **Programming Languages hbhbdbhsbfhsb jsdbfns ** | <img src="https://skillicons.dev/icons?i=js,ts,python,md" height="25"/> |
 | **Frameworks** | <img src="https://skillicons.dev/icons?i=django,graphql" height="25"/> |
 | **Databases** | <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase" height="25"/> |
 | **Cloud & DevOps** | <img src="https://skillicons.dev/icons?i=docker,git,linux,vscode,postman" height="25"/> |
