@@ -11,21 +11,6 @@
 ---
 
 <!-- 🌐 Contact & Coding Profiles (Simple URLs) -->
-
-<div align="center">
-
-[![Mail](https://img.shields.io/badge/-Mail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:your-email@example.com "Connect via Email")
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin "Connect on LinkedIn")
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-4AC959?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/your-number "Chat on WhatsApp")
-[![Telegram](https://img.shields.io/badge/-Telegram-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/your-telegram "Telegram Profile")
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=Discord&logoColor=white)](https://discord.com/your-discord "Discord Profile") 
-|
-[![Codeforces](https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/your-codeforces)
-[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://kaggle.com/your-kaggle)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/your-leetcode)
-
-</div>
-
 <div align="center">
 
 <!-- Contact -->
@@ -133,6 +118,22 @@
 </table>
 
 [<img width="100%" height="1" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/placeholder.svg">](#)
+
+---
+
+## 🛠 Technologies & Tools
+
+| Category | Tools |
+|----------|-------|
+| **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,materialui,sass,tailwind,react,nextjs,vite,astro,redux" height="25"/> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,jest" height="25"/> |
+| **Programming Languages** | <img src="https://skillicons.dev/icons?i=js,ts,python,md" height="25"/> |
+| **Frameworks** | <img src="https://skillicons.dev/icons?i=django,graphql" height="25"/> |
+| **Databases** | <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase" height="25"/> |
+| **Cloud & DevOps** | <img src="https://skillicons.dev/icons?i=docker,git,linux,vscode,postman" height="25"/> |
+| **AI & Machine Learning** | <img src="https://skillicons.dev/icons?i=python" height="25"/> <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" height="20"/> |
+| **Design & UI Tools** | <img src="https://skillicons.dev/icons?i=figma" height="25"/> |
+
 
 ---
 
