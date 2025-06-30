@@ -66,7 +66,7 @@
   <tr style="border-bottom: 1px solid #ccc;">
     <td><strong>Frontend hdjbdsbfndsbfnmbrjkdfn dfndnmbnkdn rfnbdrmf jfnrd</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,materialui,sass,tailwind,react,nextjs,vite,astro,redux, nodejs,express,nestjs,jest,django,graphq,python" style="height:28px; box-shadow: 2px 2px 5px #aaa; border-radius: 6px;" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,materialui,sass,tailwind,react,nextjs,vite,astro,redux" style="height:28px; box-shadow: 2px 2px 5px #aaa; border-radius: 6px;" />
     </td>
   </tr>
   <tr>
@@ -118,22 +118,6 @@
 </table>
 
 [<img width="100%" height="1" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/placeholder.svg">](#)
-
----
-
-## 🛠 Technologies & Tools
-
-| Category | Tools |
-|----------|-------|
-| **Frontend ndbsdnfjdbfjdnfdhbh** | <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,materialui,sass,tailwind,react,nextjs,vite,astro,redux,postgres,mysql,mongodb,supabase" height="25"/> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,jest,postgres,mysql,mongodb,supabase" height="25"/> |
-| **Programming Languages hbhbdbhsbfhsb jsdbfns** | <img src="https://skillicons.dev/icons?i=js,ts,python,md" height="25"/> |
-| **Frameworks** | <img src="https://skillicons.dev/icons?i=django,graphql" height="25"/> |
-| **Databases** | <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase" height="25"/> |
-| **Cloud & DevOps** | <img src="https://skillicons.dev/icons?i=docker,git,linux,vscode,postman" height="25"/> |
-| **AI & Machine Learning** | <img src="https://skillicons.dev/icons?i=python" height="25"/> <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" height="20"/> |
-| **Design & UI Tools** | <img src="https://skillicons.dev/icons?i=figma" height="25"/> |
-
 
 ---
 
