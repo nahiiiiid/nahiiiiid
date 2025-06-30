@@ -37,6 +37,36 @@
 
 ## 🚀 Featured Projects
 
+<table style="border-collapse: separate; border-spacing: 0 10px;">
+  <tr style="border-bottom: 1px solid #ccc;">
+    <td><strong>Frontend</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,materialui,sass,tailwind,react,nextjs,vite,astro,redux" style="height:28px; box-shadow: 2px 2px 5px #aaa; border-radius: 6px;" />
+    </td>
+  </tr>
+  <tr>
+    <td>Intelligent Algorithms Visualizer](https://github.com/nahiiiiid/Intelligent-Algorithm-Visualizer)</td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,jest" style="height:28px;" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Programming Languages</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=js,ts,python,md" style="height:28px;" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Frameworks</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=django,graphql" style="height:28px;" />
+    </td>
+  </tr>
+
+</table>
+
+
+
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
 | [Intelligent Algorithms Visualizer](https://github.com/nahiiiiid/Intelligent-Algorithm-Visualizer) | Visualizes algorithms with animations, AI-driven suggestions | <img src="https://skillicons.dev/icons?i=html,css,js,python" height="20"/> |
