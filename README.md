@@ -44,18 +44,15 @@
 <a href="https://discord.com/your-discord" title="Discord">
   <img src="https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=Discord&logoColor=white" height="25">
 </a>
-
-<br><br>
-
 <!-- Coding Platforms -->
 <a href="https://codeforces.com/profile/your-codeforces" title="Codeforces">
-  <img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white" height="25">
 </a>
 <a href="https://kaggle.com/your-kaggle" title="Kaggle">
-  <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" height="25">
 </a>
 <a href="https://leetcode.com/your-leetcode" title="LeetCode">
-  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" height="25">
 </a>
 
 </div>
