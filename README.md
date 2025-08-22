@@ -85,7 +85,7 @@
   <tr>
     <td><strong>🧰 Tools & Others</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=linux,git,vscode, system--designer" style="height:28px;" />
+      <img src="https://skillicons.dev/icons?i=linux,git,vscode" style="height:28px;" />
       <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" style="height:28px;" />
     </td>
   </tr>
