@@ -5,7 +5,7 @@
 <h1 align="center">Hey, I'm Nahid Hasan Saikot👋</h1>
 
 <h3 align="center">
-  👨‍💻 Programmer | ⚙️ DSA Enthusiast | 🤖 AI Explorer | 🧱 Full Stack Developer  
+  Programmer 
 </h3>
 
 ---
