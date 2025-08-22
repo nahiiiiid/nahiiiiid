@@ -52,17 +52,6 @@
 
 ---
 
-## 📈 GitHub Activity Graph
-![Nahid's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nahiiiiid&bg_color=0d1117&color=4cd331&line=45b83d&point=5c4d4d&area=true&hide_border=true)
-
----
-
-<!-- 🏆 GitHub Trophy Cabinet -->
-| [![trophy](https://github-profile-trophy.vercel.app/?username=nahiiiiid&theme=darkhub&margin-w=15&no-frame=true)](https://github.com/nahiiiiid) |
-| :---: |
-
----
-
 ## 🛠 Technologies & Tools
 
 <table width="100%" style="border-collapse: separate; border-spacing: 0 10px;">
