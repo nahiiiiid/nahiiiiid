@@ -1,4 +1,4 @@
-![](Cover%20Pic.png)
+<!-- ![](Cover%20Pic.png) -->
 
 ---
 
@@ -48,13 +48,13 @@
 
 
 ---
-
+<!--
 <!-- 🧠 GitHub Stats and Streaks -->
 | [![Nahid Hasan GitHub Stats](https://github-readme-stats.vercel.app/api?username=nahiiiiid&show_icons=true&theme=ayu-mirage&count_private=true)](https://github.com/nahiiiiid) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahiiiiid&layout=compact&theme=ayu-mirage)](https://github.com/nahiiiiid) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nahiiiiid&theme=ayu-mirage)](https://github.com/nahiiiiid) | 
 | :---: | :---: | :---: |
 
 ---
-
+-->
 ## 🛠 Technologies & Tools
 
 <table width="100%" style="border-collapse: separate; border-spacing: 0 10px;">
