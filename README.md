@@ -1,12 +1,12 @@
-# 👋 Hi, I’m Md. Nahid Hasan Saikot (Nahid)
+# Hi, I’m Nahid Hasan Saikot
 
-Welcome to my GitHub profile! I’m a **Computer Science student** passionate about **Backend Development**, **Machine Learning**, and **Algorithm Design**.  
-I enjoy turning complex problems into simple, elegant solutions.
+Welcome to my GitHub profile! I’m a **Computer Science student** passionate about **Backend Programming**, **Machine Learning**, and **Algorithm Design**.  
 
----
+I love turning complex problems into simple, elegant solutions.
 
-## 💻 Skills
 
+
+## Skills & Competencies
 <table>
   <tr>
     <td><b>Languages & Kits</b></td>
@@ -32,14 +32,14 @@ I enjoy turning complex problems into simple, elegant solutions.
   </tr>
 </table>
 
----
 
-## 🚀 Projects
+
+## Projects
 
 <table>
   <tr>
     <td>
-      <b><a href="https://github.com/nahiiiiid/intelligent-algorithms-visualizer">Intelligent Algorithms Visualizer</a></b><br>
+      <b>Intelligent Algorithms Visualizer</b><br>
       <small>
         <a href="https://github.com/nahiiiiid/intelligent-algorithms-visualizer">Source Code</a> | 
         <a href="#">Live</a>
@@ -50,7 +50,7 @@ I enjoy turning complex problems into simple, elegant solutions.
   </tr>
   <tr>
     <td>
-      <b><a href="https://github.com/nahiiiiid/networking-chat-app">Networking WhatsApp Chat Application</a></b><br>
+      <b>Networking WhatsApp Chat Application</b><br>
       <small>
         <a href="https://github.com/nahiiiiid/networking-chat-app">Source Code</a> | 
         <a href="#">Live</a>
@@ -61,7 +61,7 @@ I enjoy turning complex problems into simple, elegant solutions.
   </tr>
   <tr>
     <td>
-      <b><a href="https://github.com/nahiiiiid/read-relax-bookstore">Integrated Bookstore System</a></b><br>
+      <b>Integrated Bookstore System</b><br>
       <small>
         <a href="https://github.com/nahiiiiid/read-relax-bookstore">Source Code</a> | 
         <a href="#">Live</a>
@@ -72,7 +72,7 @@ I enjoy turning complex problems into simple, elegant solutions.
   </tr>
 </table>
 
----
+
 
 ## 📫 Contact Me
 
@@ -99,3 +99,12 @@ I enjoy turning complex problems into simple, elegant solutions.
     <img src="https://img.shields.io/badge/-LeetCode-F79F1F?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
 </p>
+
+
+
+
+
+
+
+
+
