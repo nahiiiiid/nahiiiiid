@@ -1,34 +1,8 @@
-# [Hi! I'm Nahid Hasan Saikot](https://nahiiiiid.github.io)
+# [Hey! I am Nahid Hasan Saikot](https://nahiiiiid.github.io)
 
-Welcome to my GitHub profile! I’m a **Computer Science student** passionate about **Backend Programming**, **Machine Learning**, and **Algorithm Design**.  
+I’m a **Computer Science student** passionate about **Backend Programming**, **Machine Learning**, and **Algorithm Design**.  
 
 I love turning complex problems into simple, elegant solutions.
-
----
-#Feel free to contact with me!
-<p align="center">
-  <a href="mailto:nahid@example.com" target="blank">
-    <img src="https://img.shields.io/badge/-Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail"/>
-  </a>
-  <a href="https://wa.me/8801XXXXXXXXX" target="blank">
-    <img src="https://img.shields.io/badge/-WhatsApp-0d1117?style=for-the-badge&logo=whatsapp&logoColor=25D366" alt="WhatsApp"/>
-  </a>
-  <a href="https://www.linkedin.com/in/nahidhasansaikot/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.kaggle.com/nahidhasansaikot" target="_blank">
-    <img src="https://img.shields.io/badge/-Kaggle-0d1117?style=for-the-badge&logo=kaggle&logoColor=20BEFF" alt="Kaggle"/>
-  </a>
-  <a href="https://codeforces.com/profile/nahiiiiid" target="_blank">
-    <img src="https://img.shields.io/badge/-Codeforces-0d1117?style=for-the-badge&logo=codeforces&logoColor=1F8ACB" alt="Codeforces"/>
-  </a>
-  <a href="https://www.hackerrank.com/nahidhasansaikot" target="_blank">
-    <img src="https://img.shields.io/badge/-HackerRank-0d1117?style=for-the-badge&logo=hackerrank&logoColor=2EC866" alt="HackerRank"/>
-  </a>
-  <a href="https://leetcode.com/nahiiiiid/" target="_blank">
-    <img src="https://img.shields.io/badge/-LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=F79F1F" alt="LeetCode"/>
-  </a>
-</p>
 
 ---
 
@@ -102,3 +76,33 @@ I love turning complex problems into simple, elegant solutions.
   </tr>
 </table>
 </details>
+
+<!--
+---
+
+#Feel free to contact with me!
+<p align="center">
+  <a href="mailto:nahid@example.com" target="blank">
+    <img src="https://img.shields.io/badge/-Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail"/>
+  </a>
+  <a href="https://wa.me/8801XXXXXXXXX" target="blank">
+    <img src="https://img.shields.io/badge/-WhatsApp-0d1117?style=for-the-badge&logo=whatsapp&logoColor=25D366" alt="WhatsApp"/>
+  </a>
+  <a href="https://www.linkedin.com/in/nahidhasansaikot/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.kaggle.com/nahidhasansaikot" target="_blank">
+    <img src="https://img.shields.io/badge/-Kaggle-0d1117?style=for-the-badge&logo=kaggle&logoColor=20BEFF" alt="Kaggle"/>
+  </a>
+  <a href="https://codeforces.com/profile/nahiiiiid" target="_blank">
+    <img src="https://img.shields.io/badge/-Codeforces-0d1117?style=for-the-badge&logo=codeforces&logoColor=1F8ACB" alt="Codeforces"/>
+  </a>
+  <a href="https://www.hackerrank.com/nahidhasansaikot" target="_blank">
+    <img src="https://img.shields.io/badge/-HackerRank-0d1117?style=for-the-badge&logo=hackerrank&logoColor=2EC866" alt="HackerRank"/>
+  </a>
+  <a href="https://leetcode.com/nahiiiiid/" target="_blank">
+    <img src="https://img.shields.io/badge/-LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=F79F1F" alt="LeetCode"/>
+  </a>
+</p>
+
+-->
