@@ -4,8 +4,7 @@ Welcome to my GitHub profile! I’m a **Computer Science student** passionate ab
 
 I love turning complex problems into simple, elegant solutions.
 
-## 💻 Skills
-
+## Skills & Competencies
 <table>
   <tr>
     <td><b>Languages & Kits</b></td>
@@ -30,15 +29,6 @@ I love turning complex problems into simple, elegant solutions.
     </td>
   </tr>
 </table>
-
-
-
-## Skills & Competencies
-| Section               |........|
-|-----------------------|--------|
-| Languages & Kits      | `C++` `Python` `OOP` `Linux` `Git` `VS Code` `Notebook` `LaTeX` `System Design` |
-| Machine Learning      | `NumPy` `Pandas` `Scikit-learn` `Matplotlib` `Seaborn` `TensorFlow` `Streamlit` |
-| Back-End              | `Flask` `Django` `FastAPI` `RESTful APIs` `MySQL` `PostgreSQL` `Docker` |
 
 
 ## Projects
