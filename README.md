@@ -1,6 +1,6 @@
-# 👋 Hi, I’m Md. Nahid Hasan Saikot (Nahid)
+# Hi, I’m Nahid Hasan Saikot
 
-Welcome to my GitHub profile! I’m a **Computer Science student** passionate about **Backend Development**, **Machine Learning**, and **Algorithm Design**.  
+Welcome to my GitHub profile! I’m a **Computer Science student** passionate about **Backend Programming**, **Machine Learning**, and **Algorithm Design**.  
 
 I love turning complex problems into simple, elegant solutions.
 
@@ -17,7 +17,7 @@ I love turning complex problems into simple, elegant solutions.
 ### Concepts & Interests
 `Algorithms` `Data Structures` `Machine Learning` `AI` `Full-Stack Development` `Competitive Programming`  
 
----
+
 
 ## 🚀 Projects
 
