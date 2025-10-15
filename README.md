@@ -15,9 +15,9 @@ I love turning complex problems into simple, elegant solutions.
 
 | Category              | Skills |
 |-----------------------|--------|
-| Languages & Kits      | `C++`, `Python`, `OOP`, `Linux`, `Git`, `VS Code`, `Notebook`, `LaTeX`, `System Design` |
-| Machine Learning      | `NumPy`, `Pandas`, `Scikit-learn`, `Matplotlib`, `Seaborn`, `TensorFlow`, `Streamlit` |
-| Back-End              | `Flask`, `Django`, `FastAPI`, `RESTful APIs`, `MySQL`, `PostgreSQL`, `Docker` |
+| Languages & Kits      | `C++` `Python`, `OOP`, `Linux`, `Git`, `VS Code`, `Notebook`, `LaTeX`, `System Design` |
+| Machine Learning      | `NumPy` `Pandas`, `Scikit-learn`, `Matplotlib`, `Seaborn`, `TensorFlow`, `Streamlit` |
+| Back-End              | `Flask`     `Django`, `FastAPI`, `RESTful APIs`, `MySQL`, `PostgreSQL`, `Docker` |
 
 
 ## Projects
