@@ -1,11 +1,8 @@
 # [Hi! I'm Nahid Hasan Saikot](https://nahiiiiid.github.io)
 
-
 Welcome to my GitHub profile! I’m a **Computer Science student** passionate about **Backend Programming**, **Machine Learning**, and **Algorithm Design**.  
 
 I love turning complex problems into simple, elegant solutions.
-
-
 
 <p align="center">
   <a href="mailto:nahid@example.com" target="blank">
@@ -29,13 +26,11 @@ I love turning complex problems into simple, elegant solutions.
   <a href="https://leetcode.com/nahiiiiid/" target="_blank">
     <img src="https://img.shields.io/badge/-LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=F79F1F" alt="LeetCode"/>
   </a>
-  <a href="https://nahiiiiid.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=google-chrome&logoColor=black&color=ffffff00&labelColor=ffffff00" alt="Portfolio"/>
-  </a>
 </p>
 
+<details>
+<summary><b>Skills & Competencies</b></summary>
 
-## Skills & Competencies
 <table>
   <tr>
     <td><b>Languages & Kits</b></td>
@@ -60,10 +55,10 @@ I love turning complex problems into simple, elegant solutions.
     </td>
   </tr>
 </table>
+</details>
 
-
-
-## Projects
+<details>
+<summary><b>Projects</b></summary>
 
 <table>
   <tr>
@@ -100,16 +95,4 @@ I love turning complex problems into simple, elegant solutions.
     <td><code>Python</code>, <code>MySQL</code>, <code>Django</code></td>
   </tr>
 </table>
-
-
-
-
-
-
-
-
-
-
-
-
-
+</details>
