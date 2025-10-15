@@ -11,6 +11,13 @@ I love turning complex problems into simple, elegant solutions.
 **Frameworks/Tools:** `Django`, `Flask`, `FastAPI`, `Node.js`, `Git`, `Docker`, `Linux`  
 **Concepts        :** `Algorithms`, `Data Structures`, `Machine Learning`, `AI`, `Full-Stack Development`, `Competitive Programming`
 
+## Projects
+
+| Project | Description | Tech Stack |
+|--------|------------|-----------|
+| [Intelligent Algorithms Visualizer](https://github.com/nahiiiiid/intelligent-algorithms-visualizer) ![Live](https://img.shields.io/badge/Live-Online-green) | Visualizes sorting, searching, graph, and backtracking algorithms with interactive animations and AI-based recommendations. | `Python`, `HTML`, `CSS`, `JavaScript` |
+| [Networking WhatsApp Chat Application](https://github.com/nahiiiiid/networking-chat-app) ![Live](https://img.shields.io/badge/Live-Online-green) | Real-time chat app with user authentication, message storage, and responsive UI using Python & socket programming. | `Python`, `Socket Programming`, `Tkinter` |
+| [Integrated Bookstore System](https://github.com/nahiiiiid/read-relax-bookstore) ![Live](https://img.shields.io/badge/Live-Online-green) | Manage books, images, and user interactions with a complete database-backed system. | `Python`, `MySQL`, `Django` |
 
 
 
