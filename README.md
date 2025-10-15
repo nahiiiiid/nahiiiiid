@@ -7,8 +7,7 @@ I love turning complex problems into simple, elegant solutions.
 
 ## 💻 Skills & Competencies
 
-### Programming Languages
-`Python` `C++` `C` `JavaScript` `HTML` `CSS` `SQL`  
+### Programming Languages `Python` `C++` `C` `JavaScript` `HTML` `CSS` `SQL`  
 
 ### Tools & Frameworks
 `Django` `Flask` `FastAPI` `Node.js` `Git` `Docker` `Linux`  
