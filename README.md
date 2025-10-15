@@ -11,6 +11,9 @@ I love turning complex problems into simple, elegant solutions.
 **Frameworks/Tools:** `Django`, `Flask`, `FastAPI`, `Node.js`, `Git`, `Docker`, `Linux`  
 **Concepts        :** `Algorithms`, `Data Structures`, `Machine Learning`, `AI`, `Full-Stack Development`, `Competitive Programming`
 
+|--------|------------|
+| Languages | `C`, `C++`, `Python`, `JavaScript`, `HTML`, `CSS`, `SQL`  
+
 ## Projects
 
 | Project | Description | Tech Stack |
