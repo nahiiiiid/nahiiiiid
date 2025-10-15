@@ -1,9 +1,4 @@
-# Hi, I’m Nahid Hasan Saikot
-<a href="nahiiiiid.github.io"># Nahid Hasan Saikot</a>
 # [Hi! I'm Nahid Hasan Saikot](https://nahiiiiid.github.io)
-
-
-
 
 
 Welcome to my GitHub profile! I’m a **Computer Science student** passionate about **Backend Programming**, **Machine Learning**, and **Algorithm Design**.  
@@ -35,7 +30,7 @@ I love turning complex problems into simple, elegant solutions.
     <img src="https://img.shields.io/badge/-LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=F79F1F" alt="LeetCode"/>
   </a>
   <a href="https://nahiiiiid.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=google-chrome&logoColor=black&color=ffffff00&labelColor=ffffff00" alt="Portfolio" style="border:1px solid #888; border-radius:8px;"/>
+    <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=google-chrome&logoColor=black&color=ffffff00&labelColor=ffffff00" alt="Portfolio"/>
   </a>
 </p>
 
