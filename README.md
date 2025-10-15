@@ -5,20 +5,11 @@ Welcome to my GitHub profile! I’m a **Computer Science student** passionate ab
 I love turning complex problems into simple, elegant solutions.
 
 
-## 💻 Skills & Competencies
+## Skills & Competencies
 
-### Programming Languages `Python` `C++` `C` `JavaScript` `HTML` `CSS` `SQL`  
-
-### Tools & Frameworks
-`Django` `Flask` `FastAPI` `Node.js` `Git` `Docker` `Linux`  
-
-### Concepts & Interests
-`Algorithms` `Data Structures` `Machine Learning` `AI` `Full-Stack Development` `Competitive Programming`  
-
-### Skills
-**Languages:** `C`, `C++`, `Python`, `JavaScript`, `HTML`, `CSS`, `SQL`  
+**Languages       :** `C`, `C++`, `Python`, `JavaScript`, `HTML`, `CSS`, `SQL`  
 **Frameworks/Tools:** `Django`, `Flask`, `FastAPI`, `Node.js`, `Git`, `Docker`, `Linux`  
-**Concepts:** `Algorithms`, `Data Structures`, `Machine Learning`, `AI`, `Full-Stack Development`, `Competitive Programming`
+**Concepts        :** `Algorithms`, `Data Structures`, `Machine Learning`, `AI`, `Full-Stack Development`, `Competitive Programming`
 
 
 
@@ -35,10 +26,6 @@ Real-time chat app with user authentication, message storage, and responsive UI 
 Manage books, images, and user interactions with a complete database-backed system.
 
 
-## 📈 Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nahiiiiid&show_icons=true&theme=radical)  
-
 
 ## 📫 Contact Me
 
@@ -48,13 +35,6 @@ Manage books, images, and user interactions with a complete database-backed syst
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/nahiiiiid)  
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/nahidhasansaikot)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nahiiiiid)
-
-
-## ⚡ Fun Facts
-- Coffee fuels my code ☕  
-- Always exploring AI and ML breakthroughs 🤖  
-- Competitive coder with a love for algorithms 🧠  
-
 
 
 
