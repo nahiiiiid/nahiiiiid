@@ -30,6 +30,26 @@ I love turning complex problems into simple, elegant solutions.
   </tr>
 </table>
 
+## Projects
+<table>
+  <tr>
+    <td><b><a href="https://github.com/nahiiiiid/intelligent-algorithms-visualizer">Intelligent Algorithms Visualizer</a></b> <a href="#"><small style="color:gray;">[Live]</small></a></td>
+    <td>Visualizes sorting, searching, graph, and backtracking algorithms with interactive animations and AI-based recommendations.</td>
+    <td><code>Python</code>, <code>HTML</code>, <code>CSS</code>, <code>JavaScript</code></td>
+  </tr>
+  <tr>
+    <td><b><a href="https://github.com/nahiiiiid/networking-chat-app">Networking WhatsApp Chat Application</a></b> <a href="#"><small style="color:gray;">[Live]</small></a></td>
+    <td>Real-time chat app with user authentication, message storage, and responsive UI using Python & socket programming.</td>
+    <td><code>Python</code>, <code>Socket Programming</code>, <code>Tkinter</code></td>
+  </tr>
+  <tr>
+    <td><b><a href="https://github.com/nahiiiiid/read-relax-bookstore">Integrated Bookstore System</a></b> <a href="#"><small style="color:gray;">[Live]</small></a></td>
+    <td>Manage books, images, and user interactions with a complete database-backed system.</td>
+    <td><code>Python</code>, <code>MySQL</code>, <code>Django</code></td>
+  </tr>
+</table>
+
+
 
 ## Projects
 
