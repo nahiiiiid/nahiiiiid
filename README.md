@@ -15,6 +15,12 @@ I love turning complex problems into simple, elegant solutions.
 ### Concepts & Interests
 `Algorithms` `Data Structures` `Machine Learning` `AI` `Full-Stack Development` `Competitive Programming`  
 
+### Skills
+**Languages:** `C`, `C++`, `Python`, `JavaScript`, `HTML`, `CSS`, `SQL`  
+**Frameworks/Tools:** `Django`, `Flask`, `FastAPI`, `Node.js`, `Git`, `Docker`, `Linux`  
+**Concepts:** `Algorithms`, `Data Structures`, `Machine Learning`, `AI`, `Full-Stack Development`, `Competitive Programming`
+
+
 
 
 ## 🚀 Projects
