@@ -4,7 +4,6 @@ Welcome to my GitHub profile! I’m a **Computer Science student** passionate ab
 
 I love turning complex problems into simple, elegant solutions.
 
----
 
 ## 💻 Skills & Competencies
 
@@ -30,13 +29,11 @@ Real-time chat app with user authentication, message storage, and responsive UI 
 ### [Integrated Bookstore System](https://github.com/nahiiiiid/read-relax-bookstore)  
 Manage books, images, and user interactions with a complete database-backed system.
 
----
 
 ## 📈 Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nahiiiiid&show_icons=true&theme=radical)  
 
----
 
 ## 📫 Contact Me
 
@@ -47,7 +44,6 @@ Manage books, images, and user interactions with a complete database-backed syst
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/nahidhasansaikot)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nahiiiiid)
 
----
 
 ## ⚡ Fun Facts
 - Coffee fuels my code ☕  
