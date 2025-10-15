@@ -14,7 +14,6 @@
 <div align="center">
 
 <!-- Contact -->
-<!--
 <a href="mailto:your-email@example.com" title="Mail">
   <img src="https://img.shields.io/badge/-Mail-c14438?style=flat&logo=Gmail&logoColor=white" height="25">
 </a>
@@ -30,7 +29,6 @@
 <a href="https://discord.com/your-discord" title="Discord">
   <img src="https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=Discord&logoColor=white" height="25">
 </a>
--->
 <!-- Coding Platforms -->
 <!--
 <a href="https://codeforces.com/profile/your-codeforces" title="Codeforces">
