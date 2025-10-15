@@ -4,6 +4,8 @@ Welcome to my GitHub profile! I’m a **Computer Science student** passionate ab
 
 I love turning complex problems into simple, elegant solutions.
 
+---
+#Feel free to contact with me!
 <p align="center">
   <a href="mailto:nahid@example.com" target="blank">
     <img src="https://img.shields.io/badge/-Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail"/>
@@ -27,6 +29,8 @@ I love turning complex problems into simple, elegant solutions.
     <img src="https://img.shields.io/badge/-LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=F79F1F" alt="LeetCode"/>
   </a>
 </p>
+
+---
 
 <details>
 <summary><b>Skills & Competencies</b></summary>
@@ -56,6 +60,8 @@ I love turning complex problems into simple, elegant solutions.
   </tr>
 </table>
 </details>
+
+---
 
 <details>
 <summary><b>Projects</b></summary>
