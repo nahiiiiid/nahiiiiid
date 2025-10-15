@@ -7,26 +7,27 @@ I love turning complex problems into simple, elegant solutions.
 
 ## Skills & Competencies
 
-**Languages       :** `C`, `C++`, `Python`, `JavaScript`, `HTML`, `CSS`, `SQL`  
-**Frameworks/Tools:** `Django`, `Flask`, `FastAPI`, `Node.js`, `Git`, `Docker`, `Linux`  
-**Concepts        :** `Algorithms`, `Data Structures`, `Machine Learning`, `AI`, `Full-Stack Development`, `Competitive Programming`
-
-## 💻 Skills
-
-| Category              | Skills |
 |-----------------------|--------|
-| Languages & Kits      | `C++` `Python`, `OOP`, `Linux`, `Git`, `VS Code`, `Notebook`, `LaTeX`, `System Design` |
-| Machine Learning      | `NumPy` `Pandas`, `Scikit-learn`, `Matplotlib`, `Seaborn`, `TensorFlow`, `Streamlit` |
-| Back-End              | `Flask`     `Django`, `FastAPI`, `RESTful APIs`, `MySQL`, `PostgreSQL`, `Docker` |
+| Languages & Kits      | `C++` `Python` `OOP` `Linux` `Git` `VS Code` `Notebook` `LaTeX` `System Design` |
+| Machine Learning      | `NumPy` `Pandas` `Scikit-learn` `Matplotlib` `Seaborn` `TensorFlow` `Streamlit` |
+| Back-End              | `Flask` `Django` `FastAPI` `RESTful APIs` `MySQL` `PostgreSQL` `Docker` |
 
 
 ## Projects
 
 | Project | Description | Tech Stack |
 |--------|------------|-----------|
-| [Intelligent Algorithms Visualizer](https://github.com/nahiiiiid/intelligent-algorithms-visualizer) ![Live](https://img.shields.io/badge/Live-Online-green) | Visualizes sorting, searching, graph, and backtracking algorithms with interactive animations and AI-based recommendations. | `Python`, `HTML`, `CSS`, `JavaScript` |
-| [Networking WhatsApp Chat Application](https://github.com/nahiiiiid/networking-chat-app) ![Live](https://img.shields.io/badge/Live-Online-green) | Real-time chat app with user authentication, message storage, and responsive UI using Python & socket programming. | `Python`, `Socket Programming`, `Tkinter` |
-| [Integrated Bookstore System](https://github.com/nahiiiiid/read-relax-bookstore) ![Live](https://img.shields.io/badge/Live-Online-green) | Manage books, images, and user interactions with a complete database-backed system. | `Python`, `MySQL`, `Django` |
+| [Intelligent Algorithms Visualizer](https://github.com/nahiiiiid/intelligent-algorithms-visualizer) ![Live](https://img.shields.io/badge/Live-Online-green) 
+| Visualizes sorting, searching, graph, and backtracking algorithms with interactive animations and AI-based recommendations. 
+| `Python`, `HTML`, `CSS`, `JavaScript` |
+
+| [Networking WhatsApp Chat Application](https://github.com/nahiiiiid/networking-chat-app) ![Live](https://img.shields.io/badge/Live-Online-green) 
+| Real-time chat app with user authentication, message storage, and responsive UI using Python & socket programming. 
+| `Python`, `Socket Programming`, `Tkinter` |
+
+| [Integrated Bookstore System](https://github.com/nahiiiiid/read-relax-bookstore) ![Live](https://img.shields.io/badge/Live-Online-green) 
+| Manage books, images, and user interactions with a complete database-backed system. 
+| `Python`, `MySQL`, `Django` |
 
 
 
