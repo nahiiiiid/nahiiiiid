@@ -72,6 +72,31 @@ I love turning complex problems into simple, elegant solutions.
   </tr>
 </table>
 
+## 📫 Contact Me
+
+<p align="center">
+  <a href="mailto:nahid@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=black" alt="Gmail"/>
+  </a>
+  <a href="https://wa.me/8801XXXXXXXXX" target="_blank">
+    <img src="https://img.shields.io/badge/-WhatsApp-FFFFFF?style=for-the-badge&logo=whatsapp&logoColor=black" alt="WhatsApp"/>
+  </a>
+  <a href="https://www.linkedin.com/in/nahidhasansaikot/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.kaggle.com/nahidhasansaikot" target="_blank">
+    <img src="https://img.shields.io/badge/-Kaggle-FFFFFF?style=for-the-badge&logo=kaggle&logoColor=black" alt="Kaggle"/>
+  </a>
+  <a href="https://codeforces.com/profile/nahiiiiid" target="_blank">
+    <img src="https://img.shields.io/badge/-Codeforces-FFFFFF?style=for-the-badge&logo=codeforces&logoColor=black" alt="Codeforces"/>
+  </a>
+  <a href="https://www.hackerrank.com/nahidhasansaikot" target="_blank">
+    <img src="https://img.shields.io/badge/-HackerRank-FFFFFF?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/>
+  </a>
+  <a href="https://leetcode.com/nahiiiiid/" target="_blank">
+    <img src="https://img.shields.io/badge/-LeetCode-FFFFFF?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+</p>
 
 
 ## 📫 Contact Me
