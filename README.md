@@ -48,13 +48,7 @@
 
 
 ---
-<!-- 🧠 GitHub Stats and Streaks -->
-<!--
-| [![Nahid Hasan GitHub Stats](https://github-readme-stats.vercel.app/api?username=nahiiiiid&show_icons=true&theme=ayu-mirage&count_private=true)](https://github.com/nahiiiiid) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahiiiiid&layout=compact&theme=ayu-mirage)](https://github.com/nahiiiiid) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nahiiiiid&theme=ayu-mirage)](https://github.com/nahiiiiid) | 
-| :---: | :---: | :---: |
 
----
--->
 ## 🛠 Technologies & Tools
 
 <table width="100%" style="border-collapse: separate; border-spacing: 0 10px;">
@@ -93,17 +87,10 @@
 
 ---
 
-## 🚀 Featured Projects
 
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| [Intelligent Algorithms Visualizer](https://github.com/nahiiiiid/Intelligent-Algorithm-Visualizer) | Visualizes algorithms with animations, AI-driven suggestions. Visualizes algorithms with animations, AI-driven suggestions | <img src="https://skillicons.dev/icons?i=html,css,js,python" height="20"/> |
-
----
 
 <p align="center">
-  <i>"Sleep, Eat, Code, Heal — Repeat."</i><br>
-  <i>Living quietly, building loudly.</i>
+  <i>Exist || !Exist - Let me sleep</i><br>
 </p>
 
 
