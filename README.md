@@ -51,15 +51,43 @@ I love turning complex problems into simple, elegant solutions.
 
 
 
-## Projects
+## 🚀 Projects
 
-| Project | Description | Tech Stack |
-|--------|------------|-----------|
-| [Intelligent Algorithms Visualizer](https://github.com/nahiiiiid/intelligent-algorithms-visualizer) ![Live](https://img.shields.io/badge/Live-Online-green) | Visualizes sorting, searching, graph, and backtracking algorithms with interactive animations and AI-based recommendations. | `Python`, `HTML`, `CSS`, `JavaScript` |
-
-| [Networking WhatsApp Chat Application](https://github.com/nahiiiiid/networking-chat-app) ![Live](https://img.shields.io/badge/Live-Online-green) | Real-time chat app with user authentication, message storage, and responsive UI using Python & socket programming. | `Python`, `Socket Programming`, `Tkinter` |
-
-| [Integrated Bookstore System](https://github.com/nahiiiiid/read-relax-bookstore) ![Live](https://img.shields.io/badge/Live-Online-green) | Manage books, images, and user interactions with a complete database-backed system. | `Python`, `MySQL`, `Django` |
+<table>
+  <tr>
+    <td>
+      <b>Intelligent Algorithms Visualizer</b><br>
+      <small>
+        <a href="https://github.com/nahiiiiid/intelligent-algorithms-visualizer">Source Code</a> | 
+        <a href="#">Live</a>
+      </small>
+    </td>
+    <td>Visualizes sorting, searching, graph, and backtracking algorithms with interactive animations and AI-based recommendations.</td>
+    <td><code>Python</code>, <code>HTML</code>, <code>CSS</code>, <code>JavaScript</code></td>
+  </tr>
+  <tr>
+    <td>
+      <b>Networking WhatsApp Chat Application</b><br>
+      <small>
+        <a href="https://github.com/nahiiiiid/networking-chat-app">Source Code</a> | 
+        <a href="#">Live</a>
+      </small>
+    </td>
+    <td>Real-time chat app with user authentication, message storage, and responsive UI using Python & socket programming.</td>
+    <td><code>Python</code>, <code>Socket Programming</code>, <code>Tkinter</code></td>
+  </tr>
+  <tr>
+    <td>
+      <b>Integrated Bookstore System</b><br>
+      <small>
+        <a href="https://github.com/nahiiiiid/read-relax-bookstore">Source Code</a> | 
+        <a href="#">Live</a>
+      </small>
+    </td>
+    <td>Manage books, images, and user interactions with a complete database-backed system.</td>
+    <td><code>Python</code>, <code>MySQL</code>, <code>Django</code></td>
+  </tr>
+</table>
 
 
 ## 📫 Contact Me
