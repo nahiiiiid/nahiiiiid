@@ -63,17 +63,6 @@ I love turning complex problems into simple, elegant solutions.
     <td>Real-time chat app with user authentication, message storage, and responsive UI using Python & socket programming.</td>
     <td><code>Python</code>, <code>Socket Programming</code>, <code>Tkinter</code></td>
   </tr>
-  <tr>
-    <td>
-      <b>Integrated Bookstore System</b><br>
-      <small>
-        <a href="https://github.com/nahiiiiid/read-relax-bookstore">Source Code</a> | 
-        <a href="#">Live</a>
-      </small>
-    </td>
-    <td>Manage books, images, and user interactions with a complete database-backed system.</td>
-    <td><code>Python</code>, <code>MySQL</code>, <code>Django</code></td>
-  </tr>
 </table>
 </details>
 
