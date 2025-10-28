@@ -50,7 +50,7 @@ I love turning complex problems into simple, elegant solutions.
       </small>
     </td>
     <td>Visualizes sorting, searching, graph, and backtracking algorithms with interactive animations and AI-based recommendations.</td>
-    <td><code>Python</code>, <code>HTML</code>, <code>CSS</code>, <code>JavaScript</code></td>
+    <td><code>HTML</code>, <code>CSS</code>, <code>JavaScript</code></td>
   </tr>
   <tr>
     <td>
