@@ -3,13 +3,13 @@
 ## Software Engineer
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Backend-181717?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/APIs-FF6F00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Databases-336791?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI%2FML-8E44AD?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Algorithms-2E8B57?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/System%20Design-34495E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=transparent&color=transparent" />
+  <img src="https://img.shields.io/badge/Backend-3776AB?style=for-the-badge&labelColor=transparent&color=transparent" />
+  <img src="https://img.shields.io/badge/APIs-00A8E8?style=for-the-badge&labelColor=transparent&color=transparent" />
+  <img src="https://img.shields.io/badge/Databases-336791?style=for-the-badge&labelColor=transparent&color=transparent" />
+  <img src="https://img.shields.io/badge/AI%2FML-8E44AD?style=for-the-badge&labelColor=transparent&color=transparent" />
+  <img src="https://img.shields.io/badge/Algorithms-2E8B57?style=for-the-badge&labelColor=transparent&color=transparent" />
+  <img src="https://img.shields.io/badge/System%20Design-34495E?style=for-the-badge&labelColor=transparent&color=transparent" />
 </p>
 
 
