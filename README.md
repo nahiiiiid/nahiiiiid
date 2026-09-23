@@ -2,30 +2,17 @@
 
 ## Software Engineer
 
-<p>
-  <span style="border: 1px solid #888; padding: 5px 10px; border-radius: 4px;">Python</span>
-  <span style="border: 1px solid #888; padding: 5px 10px; border-radius: 4px;">Backend</span>
-  <span style="border: 1px solid #888; padding: 5px 10px; border-radius: 4px;">APIs</span>
-  <span style="border: 1px solid #888; padding: 5px 10px; border-radius: 4px;">Databases</span>
-  <span style="border: 1px solid #888; padding: 5px 10px; border-radius: 4px;">AI/ML</span>
-  <span style="border: 1px solid #888; padding: 5px 10px; border-radius: 4px;">Algorithms</span>
-  <span style="border: 1px solid #888; padding: 5px 10px; border-radius: 4px;">System Design</span>
-</p>
-
-
-
-
-### Software Engineer
-
-**Python · Backend · APIs · Databases · AI/ML · Algorithms · System Design**
-
-`Python` · `Backend` · `APIs` · `Databases` · `AI/ML` · `Algorithms` · `System Design`
-
-I build software, backend systems, and ML projects. I work across the stack — writing code, designing APIs, working with data, building models, and solving problems.
-
-I’m a **Computer Science student** passionate about **Backend Programming**, **Machine Learning**, and **Algorithm Design**.  
-
-I love turning complex problems into simple, elegant solutions.
+<table>
+  <tr>
+    <td>Python</td>
+    <td>Backend</td>
+    <td>APIs</td>
+    <td>Databases</td>
+    <td>AI/ML</td>
+    <td>Algorithms</td>
+    <td>System Design</td>
+  </tr>
+</table>
 
 ---
 
