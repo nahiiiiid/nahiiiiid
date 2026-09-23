@@ -1,9 +1,58 @@
 # [Hey! I am Nahid Hasan Saikot](https://nahiiiiid.github.io)
-<h1>
-  <a href="https://nahiiiiid.github.io">Hey! I am Nahid Hasan Saikot</a>
-</h1>
 
 ## Software Engineer
+
+<p>
+  <kbd>Python</kbd>
+  <kbd>Backend</kbd>
+  <kbd>APIs</kbd>
+  <kbd>Databases</kbd>
+  <kbd>AI/ML</kbd>
+  <kbd>Algorithms</kbd>
+  <kbd>System Design</kbd>
+</p>
+
+<table>
+  <tr>
+    <td>Python</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>Backend</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>APIs</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>Databases</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>AI/ML</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>Algorithms</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>System Design</td>
+  </tr>
+</table>
 
 <table>
   <tr>
