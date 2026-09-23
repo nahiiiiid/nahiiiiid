@@ -1,5 +1,13 @@
 # [Hey! I am Nahid Hasan Saikot](https://nahiiiiid.github.io)
 
+### Software Engineer
+
+**Python · Backend · APIs · Databases · AI/ML · Algorithms · System Design**
+
+`Python` · `Backend` · `APIs` · `Databases` · `AI/ML` · `Algorithms` · `System Design`
+
+I build software, backend systems, and ML projects. I work across the stack — writing code, designing APIs, working with data, building models, and solving problems.
+
 I’m a **Computer Science student** passionate about **Backend Programming**, **Machine Learning**, and **Algorithm Design**.  
 
 I love turning complex problems into simple, elegant solutions.
