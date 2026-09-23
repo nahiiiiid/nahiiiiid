@@ -1,5 +1,20 @@
 # [Hey! I am Nahid Hasan Saikot](https://nahiiiiid.github.io)
 
+## Software Engineer
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Backend-181717?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/APIs-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Databases-336791?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%2FML-8E44AD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Algorithms-2E8B57?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/System%20Design-34495E?style=for-the-badge" />
+</p>
+
+
+
+
 ### Software Engineer
 
 **Python · Backend · APIs · Databases · AI/ML · Algorithms · System Design**
