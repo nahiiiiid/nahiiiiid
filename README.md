@@ -12,61 +12,6 @@
   <kbd>System Design</kbd>
 </p>
 
-<table>
-  <tr>
-    <td>Python</td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td>Backend</td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td>APIs</td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td>Databases</td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td>AI/ML</td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td>Algorithms</td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td>System Design</td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td>Python</td>
-    <td>Backend</td>
-    <td>APIs</td>
-    <td>Databases</td>
-    <td>AI/ML</td>
-    <td>Algorithms</td>
-    <td>System Design</td>
-  </tr>
-</table>
-
----
 
 <details>
 <summary><b>Skills & Competencies</b></summary>
