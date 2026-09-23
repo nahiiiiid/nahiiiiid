@@ -3,13 +3,13 @@
 ## Software Engineer
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=transparent&color=transparent" />
-  <img src="https://img.shields.io/badge/Backend-3776AB?style=for-the-badge&labelColor=transparent&color=transparent" />
-  <img src="https://img.shields.io/badge/APIs-00A8E8?style=for-the-badge&labelColor=transparent&color=transparent" />
-  <img src="https://img.shields.io/badge/Databases-336791?style=for-the-badge&labelColor=transparent&color=transparent" />
-  <img src="https://img.shields.io/badge/AI%2FML-8E44AD?style=for-the-badge&labelColor=transparent&color=transparent" />
-  <img src="https://img.shields.io/badge/Algorithms-2E8B57?style=for-the-badge&labelColor=transparent&color=transparent" />
-  <img src="https://img.shields.io/badge/System%20Design-34495E?style=for-the-badge&labelColor=transparent&color=transparent" />
+  <span style="border: 1px solid #888; padding: 5px 10px; border-radius: 4px;">Python</span>
+  <span style="border: 1px solid #888; padding: 5px 10px; border-radius: 4px;">Backend</span>
+  <span style="border: 1px solid #888; padding: 5px 10px; border-radius: 4px;">APIs</span>
+  <span style="border: 1px solid #888; padding: 5px 10px; border-radius: 4px;">Databases</span>
+  <span style="border: 1px solid #888; padding: 5px 10px; border-radius: 4px;">AI/ML</span>
+  <span style="border: 1px solid #888; padding: 5px 10px; border-radius: 4px;">Algorithms</span>
+  <span style="border: 1px solid #888; padding: 5px 10px; border-radius: 4px;">System Design</span>
 </p>
 
 
