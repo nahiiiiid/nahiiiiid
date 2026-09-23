@@ -3,16 +3,6 @@
 ## Software Engineer
 
 <p>
-  <kbd>Python</kbd>&nbsp;
-  <kbd>Backend</kbd>&nbsp;
-  <kbd>APIs</kbd>&nbsp;
-  <kbd>Databases</kbd>&nbsp;
-  <kbd>AI/ML</kbd>&nbsp;
-  <kbd>Algorithms</kbd>&nbsp;
-  <kbd>System Design</kbd>
-</p>
-
-<p>
   <kbd>Python</kbd>
   <kbd>Backend</kbd>
   <kbd>APIs</kbd>
