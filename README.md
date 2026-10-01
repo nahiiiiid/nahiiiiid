@@ -16,6 +16,8 @@
 <details>
 <summary><b>Skills & Competencies</b></summary>
 
+### Skills & Competencies
+
 <table>
   <tr>
     <td><b>Languages & Kits</b></td>
