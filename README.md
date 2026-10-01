@@ -14,9 +14,7 @@
 
 
 <details>
-<summary><b>Skills & Competencies</b></summary>
-
-### Skills & Competencies
+<summary><b>### Skills & Competencies</b></summary>
 
 <table>
   <tr>
